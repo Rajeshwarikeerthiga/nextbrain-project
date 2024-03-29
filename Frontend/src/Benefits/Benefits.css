@@ -1,0 +1,21 @@
+.three{
+    text-align:center;
+    background-color:white;
+  }
+  .perks{
+    text-align:center;
+    
+  }
+  .benefit{
+    box-shadow: 5px 5px 5px grey;
+    display:inline-block;
+    width:400px;
+    height:250px;
+    margin:40px;
+    text-align:center;
+  }
+  .image{
+    height:100px ;
+    width:100px;
+    border-radius:50%;
+  }

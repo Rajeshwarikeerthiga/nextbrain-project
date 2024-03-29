@@ -1,0 +1,48 @@
+.four{
+    background-color:rgb(51, 28, 75);
+    overflow: hidden;
+   
+    }
+    .logoimg{
+       height:80px;
+       width:150px;
+    }
+  .card1{
+    height:400px;
+    width:250px;
+    display:inline-block;
+    position: relative;
+    margin-left:50px;
+    
+  }
+  .card2{
+   position:absolute;
+   padding:5px;
+   color:white;
+   /* border:1px solid green; */
+   height:420px;
+  }
+  .link{
+    color:white;
+    text-decoration: none;
+  }
+ 
+  .card3{
+    margin-top:60px;
+  }
+  .detail{
+    width:300px;
+    padding:10px;
+    margin:10px;
+  }
+  .button1{
+    margin:10px;
+    padding:10px;
+    width:80px;
+ 
+  }
+  .social{
+    margin:5px;
+    color:white;
+    font-size:30px;
+  }

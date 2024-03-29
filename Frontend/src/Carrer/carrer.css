@@ -1,0 +1,303 @@
+.fse{
+    font-weight: bolder;
+    
+}
+.fsd{
+    margin-left: 90px;
+
+}
+
+.loc{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.p{
+    font-size: larger;
+    padding: 10px;
+    word-spacing: 5px;
+}
+.p1{
+    /* margin-left: 10px;
+    margin-top: 20px; */
+    font-weight: bold;
+    font-size: larger;
+   }
+.p2{
+ /* margin-left: 180px;
+ margin-top: -40px; */
+ font-weight: bold;
+ font-size: larger;
+}
+.p3{
+    /* margin-left: 400px;
+    margin-top: -40px; */
+    font-weight: bold;
+    font-size: larger;
+}
+.p4{
+    /* margin-left: 570px;
+    margin-top: -40px; */
+    font-weight: bold;
+    font-size: larger;
+}
+.apply{
+    /* position:absolute; */
+    /* right:10px;
+    margin-top: -55px; */
+    background-color: deepskyblue;
+    padding:10px;
+    border:none;
+    width:180px;
+    color:white;
+    font-weight:bolder;
+    border-radius:10px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -50px;
+    font-size: large;
+  }
+  .p5{
+    font-size: larger;
+    padding: 10px;
+    word-spacing: 5px;
+  }
+  .js{
+    margin-top: 5px;
+  }
+  .resp{
+    margin-top:-25px;
+  }
+  .res{
+    font-size: larger;
+    padding: 6px;
+    word-spacing: 5px;
+  }
+  .qua{
+    font-size: larger;
+    padding: 6px;
+    word-spacing: 5px;
+  }
+  .pre{
+    font-size: larger;
+    padding: 6px;
+    word-spacing: 5px;
+  }
+  .ben{
+    font-size: larger;
+    padding: 6px;
+    word-spacing: 5px;
+  }
+  .sal{
+    font-size: larger;
+    padding: 6px;
+    word-spacing: 5px;
+  }
+  .ban{
+    font-size: larger;
+    padding: 6px;
+    word-spacing: 5px;
+  }
+ 
+
+
+  /* Apply */
+
+  .container{
+    display: grid;
+    /* position: relative; */
+}
+
+.bi{
+    margin-left: 950px;
+    top: 10px;
+   
+}
+.head{
+    font-weight: bold;
+    text-align: center;
+}
+.p{
+
+    text-align: center;
+    margin-top: -15px;
+    padding: 10px;
+    word-spacing: 5px;
+}
+.name{
+    margin-left: 350px;
+}
+.head1{
+    font-size: 18px;
+    font-weight: bold;
+}
+.inp1{
+    width:300px;
+    height: 35px;
+    
+}
+.email{
+    margin-left: 680px;
+    margin-top: -62px;
+    justify-content: center;
+}
+.head2{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp2{
+    width:300px;
+    height: 35px;
+    
+}
+.phone{
+    margin-left: 350px;
+}
+.head3{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp3{
+    width:300px;
+    height: 35px;
+    
+}
+.pos{
+    margin-left: 680px;
+    margin-top: -62px;
+    justify-content: center;
+}
+.head4{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp4{
+    width:300px;
+    height: 35px;
+    
+}
+.exp{
+    margin-left: 350px;
+}
+.head5{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp5{
+    width:300px;
+    height: 35px;
+    
+}
+.ctc{
+    margin-left: 680px;
+    margin-top: -62px;
+    justify-content: center;
+}
+.head6{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp6{
+    width:300px;
+    height: 35px;
+    
+}
+.city{
+    margin-left: 350px;
+}
+.head7{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp7{
+    width:300px;
+    height: 35px;
+    
+}
+.resu{
+    margin-left: 680px;
+    margin-top: -62px;
+    justify-content: center; 
+}
+.head8{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp8{
+    width:300px;
+    height: 35px;
+    
+}
+.testarea{
+    margin-left: 350px;
+}
+.head9{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.inp9{
+    width:630px;
+    height: 150px;
+    
+}
+.check{
+    margin-left: 350px;
+    width: 350px;
+    height: 60px;
+   text-align: center;
+   font-size: 15px; 
+   display: inline-block;  
+    
+}
+.inp10{
+    width:25px;
+    height: 25px;
+    margin-left: 5px;
+    
+}
+.svg{
+    width:50px;
+    height:50px;
+    margin-left: 100px;
+
+}
+.submit{
+   
+    background-color: deepskyblue;
+    padding: 10px;
+    border:none;
+    width:180px;
+    height: 50px;
+    color:white;
+    font-weight:bolder;
+    border-radius:10px;
+    font-size: large;
+    margin-left: 800px;
+  margin-top: -50px;
+  display: inline-block;
+    
+  }
+  .dis1{
+    display: flex;
+  justify-content: space-around;
+  width: 70%;
+  }
+  .ppp{
+    justify-content: center;
+  }

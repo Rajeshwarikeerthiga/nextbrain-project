@@ -1,0 +1,42 @@
+.first{
+  margin-top: -20px;
+  background-color: deepskyblue;
+} 
+
+  
+  
+  #resource, #services{
+    background:none;
+    border:none;
+    color:white;
+  }
+  .content{
+    text-align:center;
+    color:white;
+    font-weight:bold;
+  }
+  .contact{
+    border:2px solid white;
+    border-radius: 20px;
+  }
+  .boxes{
+    text-align:center;
+  }
+  .dropdowns{
+    display:inline-block;
+    height:100px;
+    width:300px;
+    text-align:left;
+  } 
+  .dropdowns>label{
+    color:white;
+    font-size: 20px;
+  }
+  .select{
+    background:none;
+    color:white;
+    padding:10px;
+    width:250px;
+    margin-top:5px;
+    border:1px solid white;
+  }
